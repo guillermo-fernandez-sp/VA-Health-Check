@@ -6,7 +6,7 @@
 Date: 2022-06-27
 
 Author: Guillermo Fernández
-Updated: Hector Juarez
+
 
 ## Overview
 
